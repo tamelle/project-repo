@@ -29,9 +29,9 @@ An HTML CSS boilerplate with built-in sass support:
 
    ```json
    {
-     "name": "[project name]",
+     "name": "[my personal portfolio]",
      ...
-     "author": "[your name]"
+     "author": "[Tammam]"
    }
    ```
 
